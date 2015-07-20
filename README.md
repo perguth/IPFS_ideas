@@ -16,3 +16,5 @@
   - Transparently dual publish.
   - Automatic IPFS-twitter subscription to Twitter-subscribed peers by using their website (the IPFS txt record).
   - Then add surplus like anonymous subscription (when subscribed only via IPFS-twitter just add those tweets from there to the twitter site).
+- **ipfs-file-buoy**  
+  https://github.com/pguth/IPFS_file_buoy
