@@ -12,6 +12,7 @@
 - [ ] **ipfs-cdn**  
   JS lib that does what PeerCDN did using IPFS.
 - [ ] **ipfs-twitter**  
+  - See http://vole.cc/
   - Browser plugin that extends Twitter.
   - Transparently dual publish.
   - Automatic IPFS-twitter subscription to Twitter-subscribed peers by using their website (the IPFS txt record).
