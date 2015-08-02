@@ -8,7 +8,7 @@
   - First check IPFS then/if slow degrade to http.
 - [ ] **inotify-ipfs**  
 - [ ] **ipfs-ify**  
-  Browser plugin that just adds every ressource into IPFS.
+  Browser plugin that just adds every ressource into IPFS and tries to speed up receiving them by using IPFS too.
 - [ ] **ipfs-cdn**  
   JS lib that does what PeerCDN did using IPFS.
 - [ ] **ipfs-twitter**  
