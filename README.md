@@ -2,6 +2,9 @@
 
 *IPFS all the things!*
 
+- [ ] **download auto-seed** `webtorrent`
+  - When downloading with Chrome automatically seed.
+  - Seed till seeding factor `2.0` is reached.
 - [ ] **apt-ipfs**  
   - `apt-get` wrapper.
   - Seeding by just grabbing and pinning the cache.
