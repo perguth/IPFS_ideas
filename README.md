@@ -22,3 +22,6 @@
   - Then add surplus like anonymous subscription (when subscribed only via IPFS-twitter just add those tweets from there to the twitter site).
 - [ ] **ipfs-file-buoy**  
   https://github.com/pguth/IPFS_file_buoy
+- [ ] an http proxy server that puts every file retrieved into ipfs
+    * keeps track of the URL/etag and can serve from ipfs
+    * proxies ipfs.io urls to local ipfs daemon
