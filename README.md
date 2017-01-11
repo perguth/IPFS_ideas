@@ -22,6 +22,11 @@
   - Then add surplus like anonymous subscription (when subscribed only via IPFS-twitter just add those tweets from there to the twitter site).
 - [ ] **ipfs-file-buoy**  
   https://github.com/pguth/IPFS_file_buoy
-- [ ] an http proxy server that puts every file retrieved into ipfs
+- [ ] IoT: embedded **webcam** firmware
+    * generates a keypair on first boot
+    * shares ipns name via broadcast packets every 1s
+    * saves 24h of video archives to a local directory and ipns adds them
+    * and publishes that current tree (of the trailing 24h of video) to its ipns root
+- [ ] an **http proxy** server that puts every file retrieved into ipfs
     * keeps track of the URL/etag and can serve from ipfs
     * proxies ipfs.io urls to local ipfs daemon
